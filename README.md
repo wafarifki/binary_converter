@@ -1,6 +1,6 @@
 # binary_converter
 
-Open Source binary converter system, can convert binary to decimals, to hexadecimals, to octal, ETC..
+Open Source binary converter system, can convert binary to decimals, to hexadecimals, to octal, ETC. Build with PHP Native language. Use for learn, i hope this can help you.
 
 # Let's connect with me!
 <p>
